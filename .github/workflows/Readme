@@ -1,0 +1,47 @@
+# SancaBOTZ
+
+[Deskripsi singkat bot]
+
+## Deskripsi
+
+[Penjelasan mendalam tentang bot, termasuk fitur-fitur, tujuan, dan konteks penggunaannya]
+
+## Prasyarat
+
+- [Prasyarat 1]
+- [Prasyarat 2]
+- [dan seterusnya...]
+
+## Instalasi
+
+1. Langkah instalasi pertama
+2. Langkah instalasi kedua
+3. Dan seterusnya...
+
+## Konfigurasi
+
+[Instruksi tentang konfigurasi bot, seperti pengaturan API, token, atau parameter lainnya]
+
+## Penggunaan
+
+[Contoh-contoh cara menggunakan bot]
+
+## Kontribusi
+
+Jika Anda ingin berkontribusi pada bot ini, silakan ikuti langkah-langkah berikut:
+
+1. Fork repositori
+2. Buat branch baru (`git checkout -b fitur/fitur-baru`)
+3. Lakukan perubahan yang diperlukan
+4. Commit perubahan (`git commit -am 'Menambahkan fitur baru'`)
+5. Push ke branch (`git push origin fitur/fitur-baru`)
+6. Buat Pull Request
+
+## Lisensi
+
+[Menyebutkan jenis lisensi yang digunakan dalam bot]
+
+## Kontak
+
+[Jika Anda ingin memberikan kontak atau informasi lainnya tentang cara menghubungi pembuat bot]
+
